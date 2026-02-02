@@ -3,33 +3,32 @@
 </div>  
   
 
-### 👋 Hi, I’m Aman Kaushik
-Full-stack freelance developer 👨‍💻 working remotely since 2022
-I build scalable web applications, clean UIs, and production-ready backends — turning ideas into reliable products 🚀  
-  
+## 👋 Hi, I’m Aman Kaushik
 
-- 🔭 Currently working on TAGIN — a product verification system to fight counterfeit products using blockchain & RFID tech  
-  
+A **MERN stack developer** 👨‍💻 with a strong background in **UI/UX design, graphic design, and illustration**.  
+I’ve been working **remotely as a freelancer since 2022**, building user-focused, production-ready web applications 🚀
 
-- 💬 Ask me about MERN stack, frontend architecture, UI/UX design, or creative workflows  
-  
-
-- ⚡ Fun fact: I use tabs over spaces (and I’m not switching 😄)  
-  
+- 🔭 Currently working on **TAGIN** — a product verification system to fight counterfeit products using **blockchain & RFID tech**
+- 💬 Ask me about **MERN stack, frontend architecture, UI/UX design, or creative workflows**
+- ⚡ Fun fact: I use **tabs over spaces** (and I’m not switching 😄)
 
 
 
-### 🚀 About Me  
-I’m a full-stack MERN developer who combines engineering and design to build products that are both functional and visually strong.
-On the development side, I work with React, Node.js, Express, and MongoDB, building scalable APIs, authentication systems, dashboards, and complete web platforms. I enjoy structuring clean frontend architecture and writing backend logic that’s easy to maintain and extend.
-On the creative side, I’m an illustrator and UI/UX designer with hands-on experience in Figma, Illustrator, and modern CSS. This allows me to approach projects holistically — from wireframes and visual identity to final implementation.
-I like working on projects where I can own the full flow:
-Idea → Design → Development → Deployment
-Strong focus on usability, clarity, and real-world problem solving
-Currently, I’m building TAGIN, a system aimed at verifying product authenticity and preventing counterfeiting, blending web technology with secure verification mechanisms.  
-  
+## 🚀 About Me
 
-<br/>  
+I’m a **full-stack MERN developer** who combines **engineering and design** to build products that are both **functional and visually strong**.
+
+On the development side, I work with **React, Node.js, Express, and MongoDB**, building scalable APIs, authentication systems, dashboards, and complete web platforms. I enjoy structuring clean frontend architecture and writing backend logic that’s easy to maintain and extend.
+
+On the creative side, I’m an **illustrator and UI/UX designer** with hands-on experience in **Figma, Illustrator, and modern CSS**. This allows me to approach projects holistically — from wireframes and visual identity to final implementation.
+
+I like working on projects where I can **own the full flow**:
+
+- Idea → Design → Development → Deployment  
+- Strong focus on **usability, clarity, and real-world problem solving**
+
+Currently, I’m building **TAGIN**, a system aimed at **verifying product authenticity and preventing counterfeiting**, blending web technology with secure verification mechanisms.
+
 
 
 ## My Skill Set  
